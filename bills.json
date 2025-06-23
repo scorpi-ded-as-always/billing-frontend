@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1719148914081",
+    "date": "2025-06-23T14:15:14.081Z",
+    "items": [
+      {
+        "id": "1719147834602",
+        "name": "Dove Soap",
+        "price": 55,
+        "quantity": 2
+      },
+      {
+        "id": "1719147834603",
+        "name": "Colgate Toothpaste",
+        "price": 45,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 155,
+    "gst": 18,
+    "discount": 5,
+    "total": 172.9
+  }
+]

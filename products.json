@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1719147834602",
+    "name": "Dove Soap",
+    "price": 55,
+    "quantity": 100
+  },
+  {
+    "id": "1719147834603",
+    "name": "Colgate Toothpaste",
+    "price": 45,
+    "quantity": 80
+  },
+  {
+    "id": "1719147834604",
+    "name": "Lifebuoy Handwash",
+    "price": 60,
+    "quantity": 50
+  }
+]
